@@ -1,2 +1,2 @@
 # bh-swe
-Examples an Student responses
+Problem examples and Student responses
